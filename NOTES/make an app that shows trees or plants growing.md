@@ -1,0 +1,2 @@
+these plants/trees could represent your social media apps like twitter and discord, representing a fresh batch of media to consume. This could prevent addiction as you would only want to pick a fresh batch.
+#softwareIdea 

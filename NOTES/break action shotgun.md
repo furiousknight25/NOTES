@@ -1,0 +1,1 @@
+![[Notes_211031_210554.jpg]]  [[project chill]] 

@@ -1,0 +1,1 @@
+	![[Notes_231104_171652.jpg]] #vr #gameIdeas 

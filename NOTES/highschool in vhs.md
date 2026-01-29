@@ -1,0 +1,1 @@
+![[Notes_230427_085700.jpg]] #3dStuff #videoIdeas 

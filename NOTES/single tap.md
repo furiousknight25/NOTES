@@ -1,0 +1,1 @@
+![[Notes_230422_002133.jpg]] #gameIdeas #softwareIdea 

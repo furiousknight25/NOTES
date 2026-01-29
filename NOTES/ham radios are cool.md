@@ -1,0 +1,1 @@
+![[Notes_230603_164958.jpg]]  #randomToDo [[project chill]]

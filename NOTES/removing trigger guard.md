@@ -1,0 +1,1 @@
+![[Notes_230726_151708.jpg]] #weapon #visual_reference 

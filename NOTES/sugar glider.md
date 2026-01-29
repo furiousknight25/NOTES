@@ -1,0 +1,1 @@
+![[Notes_230519_192457.jpg]] #shopping [[name]]

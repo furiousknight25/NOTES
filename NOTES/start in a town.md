@@ -1,0 +1,1 @@
+Start it out in a town or first chapter to get the player used to the controls and universe but promise a exit or place they can get to the "real game" since the first chapter is boring generic stuff and the second part is messing up all the stuff like a monster grabbing your health bar. #gameIdeas #storyIdeas

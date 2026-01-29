@@ -1,0 +1,1 @@
+"directly after copulation the devi'ls laughter is heard" Arthur Schopenhauer #humanStuff 

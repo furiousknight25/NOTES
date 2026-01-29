@@ -1,0 +1,1 @@
+![[Notes_230714_140553.jpg]] #softwareIdea 

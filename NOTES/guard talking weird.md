@@ -1,0 +1,1 @@
+Have a guard go oooohhhhh man have you heard about the police leader leaving his key in his office right there on the desk idk why but that would really dumb if someone grabbed it to gain access to everything in a sarcastic tone then the player thinks they are smart try to get it and die or seomthing #storyIdeas 

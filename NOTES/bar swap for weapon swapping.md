@@ -1,0 +1,1 @@
+#gameIdeas game idea first person shooter there is a little bar for each weapons that goes to 0 wean you use it when its max 100 it does the most damage this is to encourage weapon swaping

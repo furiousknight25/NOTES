@@ -1,0 +1,1 @@
+![[Notes_220822_205442_1.jpg]] [[Nature observations]]

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "77ac916826b25fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "017b852a7ae4727c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a311f332f1fd404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "confidence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "confidence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02bb27aec2fdc89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc1b062de4a94af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f285b70e949986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d56d39f10f2dfb77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4592eaefc83dc45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cbaa6c9c5104407",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e03d695849e966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9dbd23957f02bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "randomize gamemode where everybody chooses a gun to put in the gun pool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for randomize gamemode where everybody chooses a gun to put in the gun pool"
+            }
+          },
+          {
+            "id": "0be8950a75fd4535",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "randomize gamemode where everybody chooses a gun to put in the gun pool.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from randomize gamemode where everybody chooses a gun to put in the gun pool"
+            }
+          },
+          {
+            "id": "65fdf892578209ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d913fd31584f5977",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b7b50609146d5a04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "randomize gamemode where everybody chooses a gun to put in the gun pool.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of randomize gamemode where everybody chooses a gun to put in the gun pool"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7a311f332f1fd404",
+  "lastOpenFiles": [
+    "Cool action you kill someone with the recoil of a gun like maybe take a 50 cal put someones head against the wall shoot in the opposite direction to crush it.md",
+    "context thing.md",
+    "come back.md",
+    "run untill you get your heart going.md",
+    "Notes_220824_221056.jpg.md",
+    "zooming in for cinie.md",
+    "project chill.md",
+    "randomize gamemode where everybody chooses a gun to put in the gun pool.md",
+    "Make headphone stand.md",
+    "make a valorent style reload.md",
+    "akimbo reload.md",
+    "Add a edgy stick fight charector and then he says hmph you bore me prepare to die and my charector just shots him.md",
+    "a weapon(maybe blocky) that transforms in your hand in vr, depending on the motion or button you press, maybe a wheel. physics based and has cool animations that transitions between each weapon.md",
+    "a reload animation for heavy where he inserts his credit card into Sasha and pays $400,000 to fire his weapon, for 12 seconds.md",
+    "a game where the more u switch up ur weapons the more variety the music is.md",
+    "14 stations.md",
+    "3st.md",
+    "Nature observations 2.md",
+    "300 breakfast.md",
+    "15 yr old cant tie, ppl are surprising.md",
+    "8 hours day 5 day project or something.md",
+    "3rd weapon slot for sniping.md",
+    "3 38 sick spin.md",
+    "2 mag taps.md",
+    "1 percent of population has an intelectual disability.md",
+    "0 frame animation, just narrate the gun.md"
+  ]
+}

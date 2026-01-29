@@ -1,0 +1,1 @@
+![[Notes_240116_071838.jpg]] #programmingIdeas 

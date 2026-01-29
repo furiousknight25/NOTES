@@ -1,0 +1,1 @@
+![[Notes_230316_043515.jpg]] #animationIdeas

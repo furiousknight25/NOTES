@@ -1,0 +1,1 @@
+![[Notes_240111_011638.jpg]] #physicalCrafts #softwareIdea 

@@ -1,0 +1,1 @@
+Make a language or message by taking symbols/numbers and uppercasing it such as this, make this sentence uppercase 4[-]9\, which translates to   ${_}(|< thats a bad example but that translates to suck. lol

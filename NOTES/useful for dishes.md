@@ -1,0 +1,1 @@
+![[Notes_230402_194036.jpg]]  #shopping 

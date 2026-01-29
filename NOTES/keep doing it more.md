@@ -1,0 +1,1 @@
+![[Notes_230516_152048.jpg]] #humanStuff #randomToDo 

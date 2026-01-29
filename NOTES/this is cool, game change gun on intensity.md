@@ -1,0 +1,1 @@
+![[Notes_230425_234228.jpg]] you know dont starve kinda does this with how it changes gameplay based on insanity  #gameIdeas 

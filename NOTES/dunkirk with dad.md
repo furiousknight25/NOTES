@@ -1,0 +1,1 @@
+![[Notes_230403_123300.jpg]] #randomToDo 

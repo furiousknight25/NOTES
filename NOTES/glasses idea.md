@@ -1,0 +1,1 @@
+![[Notes_230125_143248.jpg]] #visual_reference 

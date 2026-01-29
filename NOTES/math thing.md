@@ -1,0 +1,1 @@
+weird multiplication notice, 12(with any number tacked onto it starts with a 2). so 12998u34985983458939485 * 2 will start with the number 2. and 125125 will start with 2 same rule applies to 12 13 14 but goes to 3 at 15, 16, 17, 18, 19, then goes to starting with 4 at 20. changes to 5 at 25, prob something to do with rounding up and down 

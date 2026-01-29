@@ -1,0 +1,1 @@
+![[Notes_230618_152229.jpg]]  #weapon #gameIdeas 

@@ -1,0 +1,1 @@
+![[Notes_230830_164838.jpg]] #ppltouchingmystuff

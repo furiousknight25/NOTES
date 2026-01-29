@@ -1,0 +1,1 @@
+![[Notes_230526_151850.jpg]] #physicalCrafts 

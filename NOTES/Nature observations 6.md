@@ -1,0 +1,1 @@
+![[Day 1_220812_225510_6.jpg]] [[Nature observations]]

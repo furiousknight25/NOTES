@@ -1,0 +1,1 @@
+Good morning project 1, the time is 495829 pm. please, proceed through the door on your left to complete your hourly task. If you do not feel like it today that is okay and you may proceed to take a left and exterminate yourself. Viewers get to choose and if left the series ends on the next episode #storyIdeas 

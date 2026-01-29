@@ -1,0 +1,1 @@
+![[Notes_231002_115451.jpg]] #videoIdeas

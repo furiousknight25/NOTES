@@ -1,0 +1,1 @@
+![[Notes_220709_001106.jpg]]  #gameIdeas 

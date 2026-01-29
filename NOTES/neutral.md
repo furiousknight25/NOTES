@@ -1,0 +1,1 @@
+![[Notes_220216_221022.jpg]]  #humanStuff 

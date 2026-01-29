@@ -1,0 +1,1 @@
+![[Notes_220202_121550.jpg]]  #gameIdeas swapping stuff

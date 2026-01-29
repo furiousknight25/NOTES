@@ -1,0 +1,1 @@
+i love how powerful the number 0 is, it means nothing right? but it can destroy a whole equation and break your calculators giving you undefined.

@@ -1,0 +1,1 @@
+![[Notes_220127_071102.jpg]] #gameIdeas [[project chill]]

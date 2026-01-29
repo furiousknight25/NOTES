@@ -1,0 +1,1 @@
+![[Notes_201109_033746.jpg]] #humanStuff make better animations than deceit #animationIdeas 

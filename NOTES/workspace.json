@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "9a71afd47d776a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ad3f74b3ca92fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1f1ddfdf60013f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "circuit horror.canvas",
+                "viewState": {
+                  "x": 16,
+                  "y": -43,
+                  "zoom": 0
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "be822553de59c051",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "3defc0f06fad68eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34d8e4091babf40c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e453839c73376e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f89966edefcfb2f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5960b7dc47093e7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f0bcc91c1ee46f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f22bf026f708a8d4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "8e5e0159118161b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb716724f6d72f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9d85e2298a43ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "circuit horror.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38a854bc4998a801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "circuit horror.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9d60315ffd4a87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8be5ee9daf67027d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "circuit horror.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "af1f1ddfdf60013f",
+  "lastOpenFiles": [
+    "circuit horror.canvas",
+    "Home.md",
+    "Reminite.md",
+    "Untitled 2.canvas",
+    "Untitled.md",
+    "starfield for college.md",
+    "make an app that shows trees or plants growing.md",
+    "lets gettem.md",
+    "create a horror game using the motion detector.md",
+    "for the mag reload the side of the gun opens up so you can slot the mag in.md",
+    "being creative is a skill you actively have to work on.md",
+    "skit idea or something.md",
+    "Listen to Bisaya while doing door dash for early summer.md",
+    "camera work.md",
+    "wtf tit physics.md",
+    "Untitled 1.canvas",
+    "BABYGIF-1.gif",
+    "ArduinoCreateAgent-1.3.6-windows-amd64-installer.exe",
+    "WHAAAAAAAAAT.mp4",
+    "cam effect.md",
+    "the rest.md",
+    "NVIDIA_Share_vTZXsmeB98.png",
+    "a teaching system where everyone has points to ask questions, this makes it so they arent to many questions asked but everyone gets one.md",
+    "create a drag and drop tool in godot where you can drag a variable into a side print button for temp debugging.md",
+    "create a discord app that shows your typing live, like talking in real life.md",
+    "app software that is a mouse fidget, like bouncing a ball up and down on your mouse..md",
+    "the 0 number.md",
+    "in a fight scene instead of doing a swords clashed holding talking scene have a part where they talk for around 12 seconds while blades are slowly sinking in over the whole conversation.md",
+    "the way u can teach concepts by hovering over things that you may have forgot about is useful, simmilar to how griftlands does it.md",
+    "for the ai teaching things maybe messing with the speed of the video at certain points or telling attention span can help with learning..md",
+    "develop a website that holds all of your scout pdf's together.md",
+    "for portfolio put email insert so you can send a email to let the person know you are available.md",
+    "NVIDIA_Share_RHieePTNLn.png",
+    "Pasted image 20240126224116.png",
+    "Pasted image 20240126223816.png",
+    "Pasted image 20240126223735.png",
+    "Pasted image 20240126223533.png",
+    "Pasted image 20240126223445.png",
+    "Pasted image 20240126223421.png",
+    "Pasted image 20240126222617.png",
+    "PHONE IMAGES/done",
+    "Untitled.canvas",
+    "PHONE IMAGES/junkfolder",
+    "PHONE IMAGES/V1/Untitled",
+    "PHONE IMAGES/V1",
+    "PHONE IMAGES"
+  ]
+}

@@ -1,0 +1,1 @@
+#gameIdeas [[burst gun]] [[last bullet on burst extra damage]] 

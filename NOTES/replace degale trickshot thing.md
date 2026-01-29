@@ -1,0 +1,1 @@
+![[Notes_210216_031058.jpg]] #weapon #animationIdeas 

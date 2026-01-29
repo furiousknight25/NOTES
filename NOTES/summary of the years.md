@@ -1,0 +1,1 @@
+9th 2020, year of the start/productive/start of blender/best year, 10th 2021, the great pause/weird drama/animation roadblock/boring, 11th, 2022 very basic/jack of all trades/return to old days, 2023 12th, yet to come #humanStuff 

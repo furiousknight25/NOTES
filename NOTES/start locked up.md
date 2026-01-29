@@ -1,0 +1,1 @@
+![[Notes_210206_020229.jpg]] #storyIdeas 

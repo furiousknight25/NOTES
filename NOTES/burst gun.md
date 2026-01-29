@@ -1,0 +1,1 @@
+burst gun, when you hit all 3 shots the third does extra damage #gameIdeas 

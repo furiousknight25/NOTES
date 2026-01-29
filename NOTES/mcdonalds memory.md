@@ -1,0 +1,1 @@
+![[Notes_210131_172752.jpg]] #randomToDo #physicalCrafts 

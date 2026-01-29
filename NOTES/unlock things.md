@@ -1,0 +1,1 @@
+![[Notes_230522_155603.jpg]] [[tycoon map idea]] [[project chill]] 
