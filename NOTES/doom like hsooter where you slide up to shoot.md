@@ -1,0 +1,1 @@
+look -> shoot (up arrow)

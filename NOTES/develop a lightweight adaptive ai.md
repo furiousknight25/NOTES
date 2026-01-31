@@ -1,0 +1,1 @@
+it saves and creates its own hexagonal submap based on its enviornment so it can discover and build a nav map #gameIdeas

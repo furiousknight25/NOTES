@@ -1,0 +1,1 @@
+coop game where your friend has to hide and you have to keep your friend alive by distracting the monster

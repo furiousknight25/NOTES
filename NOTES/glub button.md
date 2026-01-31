@@ -1,0 +1,1 @@
+you swipe or shoot them and the other person recieves the physics of them in the drawer and you can see them drop in with the same physics #softwareIdea

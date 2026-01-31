@@ -11,17 +11,1274 @@
             "id": "7a311f332f1fd404",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "04a1ce6b3eb9f4e0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "confidence.md",
+                "file": "position shaking for vr controls also wii controls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "confidence"
+              "title": "position shaking for vr controls also wii controls"
+            }
+          },
+          {
+            "id": "859ee2c25fca4cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for the nody jump shows the preview arc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for the nody jump shows the preview arc"
+            }
+          },
+          {
+            "id": "f979b14433df8db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2d platformer turnbased.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2d platformer turnbased"
+            }
+          },
+          {
+            "id": "2ecb87ce8a90d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "little robots that run and send virtual poker chips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "little robots that run and send virtual poker chips"
+            }
+          },
+          {
+            "id": "543f5b6639ff63f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lefthand movement riht hand weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lefthand movement riht hand weapons"
+            }
+          },
+          {
+            "id": "9dd08f82a9a41e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tap to reload faster or have two different reload buttons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tap to reload faster or have two different reload buttons"
+            }
+          },
+          {
+            "id": "db34407e1fb5321e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boy fan poster of teachers like gilbert strang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "boy fan poster of teachers like gilbert strang"
+            }
+          },
+          {
+            "id": "6bc4064e8343f8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stretch frames blue effect for dragging and dropping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stretch frames blue effect for dragging and dropping"
+            }
+          },
+          {
+            "id": "15e7245457f868ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "suck in runner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "suck in runner"
+            }
+          },
+          {
+            "id": "8c911a277461a7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cats but with project hcill as a mini game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cats but with project hcill as a mini game"
+            }
+          },
+          {
+            "id": "5f6e9179b000a646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for my transferable tools pack have all the godot versions in it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for my transferable tools pack have all the godot versions in it"
+            }
+          },
+          {
+            "id": "bafa921d75a1d6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cooking glub button.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cooking glub button"
+            }
+          },
+          {
+            "id": "a985a5aaedc0ed7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "app that allows you to do math as low level as possible such as taking derivatives into multiplaying into addition etc. etc..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "app that allows you to do math as low level as possible such as taking derivatives into multiplaying into addition etc. etc."
+            }
+          },
+          {
+            "id": "f57ee3d2639fde53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pomodoro watch app with tomatoes saved up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pomodoro watch app with tomatoes saved up"
+            }
+          },
+          {
+            "id": "532d311ef599c9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "research idea"
+            }
+          },
+          {
+            "id": "f8e8daeae4b95dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "club animation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "club animation"
+            }
+          },
+          {
+            "id": "6223d4b5da72131e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fighting game with the yoyo as the main weapon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fighting game with the yoyo as the main weapon"
+            }
+          },
+          {
+            "id": "65d3442a4894da3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "do tutorials in random crazy places.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "do tutorials in random crazy places"
+            }
+          },
+          {
+            "id": "6693a8bf604e9640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pet name \"peeve\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pet name \"peeve\""
+            }
+          },
+          {
+            "id": "5e38757cc6f35128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "instant understanding game jam idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "instant understanding game jam idea"
+            }
+          },
+          {
+            "id": "b014f533b81540cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keep a monster with you dont let it escape and do harm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "keep a monster with you dont let it escape and do harm"
+            }
+          },
+          {
+            "id": "5abdfb64a53c8114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game jam prompt idea space repetition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "game jam prompt idea space repetition"
+            }
+          },
+          {
+            "id": "6732c8a001f56602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "put circuits on the walking stick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "put circuits on the walking stick"
+            }
+          },
+          {
+            "id": "8e36fbca9b0f7977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "make the hideen source game in roblox or godot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "make the hideen source game in roblox or godot"
+            }
+          },
+          {
+            "id": "1c555d0cef921bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teach poker by using the first 3 hands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "teach poker by using the first 3 hands"
+            }
+          },
+          {
+            "id": "1dba5276ef301643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "make pin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "make pin"
+            }
+          },
+          {
+            "id": "c895d37e41a6d8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to make good wii visuals reduce resolution with static.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to make good wii visuals reduce resolution with static"
+            }
+          },
+          {
+            "id": "914ea830539ef5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon rumble inspired game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pokemon rumble inspired game"
+            }
+          },
+          {
+            "id": "d70b374f13bd2681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "link discord status to pomodoro timer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "link discord status to pomodoro timer"
+            }
+          },
+          {
+            "id": "bec821d6cb644825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "good rosary watch os.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "good rosary watch os"
+            }
+          },
+          {
+            "id": "cebfa74a0ac82270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start campaign as starving slaves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "start campaign as starving slaves"
+            }
+          },
+          {
+            "id": "2cd21aacfa8bc8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create a python animated learning ide with adaptive music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create a python animated learning ide with adaptive music"
+            }
+          },
+          {
+            "id": "20903591996b5219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "action wheel that grapples on each item.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "action wheel that grapples on each item"
+            }
+          },
+          {
+            "id": "12887f013b8cdc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wolfenstien wheel chair game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wolfenstien wheel chair game"
+            }
+          },
+          {
+            "id": "6c4b4eb209948e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "force slow mo in action shooter, maybe an enemy that slows stuff down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "force slow mo in action shooter, maybe an enemy that slows stuff down"
+            }
+          },
+          {
+            "id": "ebcb86c7c5584187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the shift button is the movement option.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the shift button is the movement option"
+            }
+          },
+          {
+            "id": "202bdc3c2e467512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "get a bell to ring for dinner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "get a bell to ring for dinner"
+            }
+          },
+          {
+            "id": "f341936ea7ed19ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use remote transformation for polish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "use remote transformation for polish"
+            }
+          },
+          {
+            "id": "c6a792b6d0d4ea80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a animated programming language with a visualization for functions passing values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a animated programming language with a visualization for functions passing values"
+            }
+          },
+          {
+            "id": "329128a4efba3869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "make everyone parry with a mic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "make everyone parry with a mic"
+            }
+          },
+          {
+            "id": "7b54af8ef62a8423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "buffet cafe coffee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "buffet cafe coffee"
+            }
+          },
+          {
+            "id": "f00a1effd3efd9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use a bible verse for every project and link one.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "use a bible verse for every project and link one"
+            }
+          },
+          {
+            "id": "58476aad108cc2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in a game to find direciton have a mechanic where your character licks finger and it shows the wind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in a game to find direciton have a mechanic where your character licks finger and it shows the wind"
+            }
+          },
+          {
+            "id": "7a87905375315ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smell as a horror mechanic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "smell as a horror mechanic"
+            }
+          },
+          {
+            "id": "9a46ea4368a661af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a game about faith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a game about faith"
+            }
+          },
+          {
+            "id": "05d64024c4d17c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pixel art vs smooth art fighting game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pixel art vs smooth art fighting game"
+            }
+          },
+          {
+            "id": "92fd820c34f336ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "holster the bar keeper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "holster the bar keeper"
+            }
+          },
+          {
+            "id": "4f20b9bdb5402950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in the wheel chair vr game make it so you can drift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in the wheel chair vr game make it so you can drift"
+            }
+          },
+          {
+            "id": "89bb7a001ca6add9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doom like hsooter where you slide up to shoot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "doom like hsooter where you slide up to shoot"
+            }
+          },
+          {
+            "id": "fa0b782caf2b0774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a game based on newtons third law zero grav astronaut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a game based on newtons third law zero grav astronaut"
+            }
+          },
+          {
+            "id": "f35b2e5f6b8e6c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "small coffee meetup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "small coffee meetup"
+            }
+          },
+          {
+            "id": "d643d054d95c8fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sorry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sorry"
+            }
+          },
+          {
+            "id": "041e6da9eff6d956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wizard of oz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wizard of oz"
+            }
+          },
+          {
+            "id": "20dad7954e43e449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project hcill sliding on a ball use rockets to move around.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "project hcill sliding on a ball use rockets to move around"
+            }
+          },
+          {
+            "id": "32fab353cc306287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cinemetography 1 minute hsot in car ride \"you must feel bored\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cinemetography 1 minute hsot in car ride \"you must feel bored\""
+            }
+          },
+          {
+            "id": "171142e5d756d374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "take inspiration from the woodland allience for mooners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "take inspiration from the woodland allience for mooners"
+            }
+          },
+          {
+            "id": "3d4a2016a2ed1da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timer to freeze pop can so pop has a bit of ice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "timer to freeze pop can so pop has a bit of ice"
+            }
+          },
+          {
+            "id": "dcde13b71b4abdad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in a campaign add real players to campaign and be meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in a campaign add real players to campaign and be meta"
+            }
+          },
+          {
+            "id": "4ffe11ed9bb98bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd horror boss fight where you have a dog hunt and can only see it and you have to listen to its barks to fight it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dnd horror boss fight where you have a dog hunt and can only see it and you have to listen to its barks to fight it"
+            }
+          },
+          {
+            "id": "941bc5af0fce3a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd minigame to craft or buy items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dnd minigame to craft or buy items"
+            }
+          },
+          {
+            "id": "ba85512dfdf94748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vr game with gorn controls wherey ou are fat and you have to squeeze through a train.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vr game with gorn controls wherey ou are fat and you have to squeeze through a train"
+            }
+          },
+          {
+            "id": "049ab09f20f5a36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mini table you slide hand on to move.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mini table you slide hand on to move"
+            }
+          },
+          {
+            "id": "7ef8898c8c4f2665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "belt fed shotgun lmg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "belt fed shotgun lmg"
+            }
+          },
+          {
+            "id": "c833b463630f080f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trench warfare game where you showcase how absurd fighing for a few miles of mud is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trench warfare game where you showcase how absurd fighing for a few miles of mud is"
+            }
+          },
+          {
+            "id": "e84e27b181de5264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vr movement walking stick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vr movement walking stick"
+            }
+          },
+          {
+            "id": "e248cb221e0346c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vr game where you are on a motorcycle and you can hit the ground with a sword to move and fight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vr game where you are on a motorcycle and you can hit the ground with a sword to move and fight"
+            }
+          },
+          {
+            "id": "4db6f084f639e6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vr shotgun game where you have different shells and barrels wit ha big belt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vr shotgun game where you have different shells and barrels wit ha big belt"
+            }
+          },
+          {
+            "id": "db6350c158009f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd game mechanic where you can bounce things off the wall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dnd game mechanic where you can bounce things off the wall"
+            }
+          },
+          {
+            "id": "a350e2de0cef42a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clench hand for lazer wide hand for short range wide attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clench hand for lazer wide hand for short range wide attack"
+            }
+          },
+          {
+            "id": "9295eda1b4acc3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "name idea tangent wave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "name idea tangent wave"
+            }
+          },
+          {
+            "id": "9bcf8f50d734e019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 gooey minotaurs fight for dnd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 gooey minotaurs fight for dnd"
+            }
+          },
+          {
+            "id": "cc5f076e35e0dc80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create a language where hte students create their own lanaugage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create a language where hte students create their own lanaugage"
+            }
+          },
+          {
+            "id": "e3bdc1cf81974262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a game where you build math equations to shoot the enemy the functions display the bullet trajectory drag and drop to manage ammo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a game where you build math equations to shoot the enemy the functions display the bullet trajectory drag and drop to manage ammo"
+            }
+          },
+          {
+            "id": "145a696f54769d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "attachments to bag that puts notches to slots stuff in place.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attachments to bag that puts notches to slots stuff in place"
+            }
+          },
+          {
+            "id": "db03dee69fa1cede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "showcase how long development take.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "showcase how long development take"
+            }
+          },
+          {
+            "id": "986e6ac7fa98392a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people always post hte best parts of life so make a account where you post the normal boring stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "people always post hte best parts of life so make a account where you post the normal boring stuff"
+            }
+          },
+          {
+            "id": "8ddba6bf83306359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning to forget is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning to forget is"
+            }
+          },
+          {
+            "id": "317896e4676b171e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning with a teacher creates a emotional connection emotional connections helps you learn faster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning with a teacher creates a emotional connection emotional connections helps you learn faster"
+            }
+          },
+          {
+            "id": "f282cc39ae297690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "little camera that shows executions this could also be where the diolog is from.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "little camera that shows executions this could also be where the diolog is from"
+            }
+          },
+          {
+            "id": "c629f87e1dac3630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start teaching blender with black and white themes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "start teaching blender with black and white themes"
+            }
+          },
+          {
+            "id": "92beb8ae5f9a2207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "o teach pi have people try to make a circle out of paper with the radius of 1 then show that pi is the perfect size to measure with a ruler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "o teach pi have people try to make a circle out of paper with the radius of 1 then show that pi is the perfect size to measure with a ruler"
+            }
+          },
+          {
+            "id": "b61b46b89a5e0baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game dev bible full of jiuce effects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "game dev bible full of jiuce effects"
+            }
+          },
+          {
+            "id": "c923097480fe7a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for physics game show a backpack showing energy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for physics game show a backpack showing energy"
+            }
+          },
+          {
+            "id": "057b63603f3bf577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lose control over character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lose control over character"
+            }
+          },
+          {
+            "id": "4405cc51a5e231bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "each character that joins in a fighting game adds their own adaptive music beat to the music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "each character that joins in a fighting game adds their own adaptive music beat to the music"
+            }
+          },
+          {
+            "id": "fb6f5cec6fcf1f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "make a doc for college tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "make a doc for college tips"
+            }
+          },
+          {
+            "id": "a8509c09c0474c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "afk ads for the night.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "afk ads for the night"
+            }
+          },
+          {
+            "id": "dc1628b06f1b4165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "animation that is thrown a ball with a string on something, explode vectors like force velocity accel friction impulse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "animation that is thrown a ball with a string on something, explode vectors like force velocity accel friction impulse"
+            }
+          },
+          {
+            "id": "ff6376f47caa6082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as a teacher if humans are predictable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "as a teacher if humans are predictable"
+            }
+          },
+          {
+            "id": "b17521566ddb9e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "always think for your decisions sartly dont be an animal teen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "always think for your decisions sartly dont be an animal teen"
             }
           }
-        ]
+        ],
+        "currentTab": 90
       }
     ],
     "direction": "vertical"
@@ -183,33 +1440,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a311f332f1fd404",
+  "active": "b17521566ddb9e0d",
   "lastOpenFiles": [
-    "Cool action you kill someone with the recoil of a gun like maybe take a 50 cal put someones head against the wall shoot in the opposite direction to crush it.md",
-    "context thing.md",
-    "come back.md",
-    "run untill you get your heart going.md",
-    "Notes_220824_221056.jpg.md",
-    "zooming in for cinie.md",
-    "project chill.md",
-    "randomize gamemode where everybody chooses a gun to put in the gun pool.md",
-    "Make headphone stand.md",
-    "make a valorent style reload.md",
-    "akimbo reload.md",
-    "Add a edgy stick fight charector and then he says hmph you bore me prepare to die and my charector just shots him.md",
-    "a weapon(maybe blocky) that transforms in your hand in vr, depending on the motion or button you press, maybe a wheel. physics based and has cool animations that transitions between each weapon.md",
-    "a reload animation for heavy where he inserts his credit card into Sasha and pays $400,000 to fire his weapon, for 12 seconds.md",
-    "a game where the more u switch up ur weapons the more variety the music is.md",
-    "14 stations.md",
-    "3st.md",
-    "Nature observations 2.md",
-    "300 breakfast.md",
-    "15 yr old cant tie, ppl are surprising.md",
-    "8 hours day 5 day project or something.md",
-    "3rd weapon slot for sniping.md",
-    "3 38 sick spin.md",
-    "2 mag taps.md",
-    "1 percent of population has an intelectual disability.md",
-    "0 frame animation, just narrate the gun.md"
+    "as a teacher if humans are predictable.md",
+    "always think for your decisions sartly dont be an animal teen.md",
+    "animation that is thrown a ball with a string on something, explode vectors like force velocity accel friction impulse.md",
+    "afk ads for the night.md",
+    "make a doc for college tips.md",
+    "each character that joins in a fighting game adds their own adaptive music beat to the music.md",
+    "lose control over character.md",
+    "for physics game show a backpack showing energy.md",
+    "game dev bible full of jiuce effects.md",
+    "o teach pi have people try to make a circle out of paper with the radius of 1 then show that pi is the perfect size to measure with a ruler.md",
+    "start teaching blender with black and white themes.md",
+    "little camera that shows executions this could also be where the diolog is from.md",
+    "learning with a teacher creates a emotional connection emotional connections helps you learn faster.md",
+    "learning to forget is.md",
+    "people always post hte best parts of life so make a account where you post the normal boring stuff.md",
+    "showcase how long development take.md",
+    "attachments to bag that puts notches to slots stuff in place.md",
+    "a game where you build math equations to shoot the enemy the functions display the bullet trajectory drag and drop to manage ammo.md",
+    "create a language where hte students create their own lanaugage.md",
+    "3 gooey minotaurs fight for dnd.md",
+    "name idea tangent wave.md",
+    "clench hand for lazer wide hand for short range wide attack.md",
+    "dnd game mechanic where you can bounce things off the wall.md",
+    "vr shotgun game where you have different shells and barrels wit ha big belt.md",
+    "vr game where you are on a motorcycle and you can hit the ground with a sword to move and fight.md",
+    "vr movement walking stick.md"
   ]
 }

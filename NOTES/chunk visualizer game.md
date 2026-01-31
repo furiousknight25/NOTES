@@ -1,0 +1,1 @@
+manipualating people without them knowing then replaying footage back with chunks visualization
