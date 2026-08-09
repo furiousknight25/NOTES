@@ -4,17 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c152ceba83fb605a",
+        "id": "94bc2175a5471329",
         "type": "tabs",
         "children": [
           {
-            "id": "950e36336dfbfa9f",
+            "id": "ff6a4e86eebaab0a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Director.canvas",
+                "viewState": {
+                  "x": -111.45377539104004,
+                  "y": 61.464512772030396,
+                  "zoom": -0.550391185879707
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Director"
+            }
+          },
+          {
+            "id": "a83221312f998cd4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "3 Casper 3/ScoutUpgrades/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -36,8 +66,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,15 +208,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "950e36336dfbfa9f",
+  "active": "ff6a4e86eebaab0a",
   "lastOpenFiles": [
-    "break action shotgun.md",
-    "prestige weapon thing.md",
-    "nudge thing.md",
-    "balls for hand vr game.md",
+    "3 Casper 3/ScoutUpgrades/Untitled Kanban.md",
+    "3 Casper 3/ScientificMethod/ScientificMethodCanvas.canvas",
+    "3 Casper 3/ScientificMethod/Life Automation.md",
+    "1 Melchior 1/Genisis.png",
+    "3 Casper 3/LifeAutomation",
+    "3 Casper 3/ScoutUpgrades",
+    "3 Casper 3/Active Projects.md",
+    "3 Casper 3/ScientificMethod",
+    "3 Casper 3/Backlog.md",
+    "Director.canvas",
+    "3 Casper 3/PersonalWebsite/PersonalWebsiteCanvas.canvas",
+    "3 Casper 3/ActiveProjects",
+    "3 Casper 3/PersonalWebsite/PersonalWebsiteKanban.md",
+    "3 Casper 3/PICOTRON/PicoTrongKanban.md",
+    "3 Casper 3/PICOTRON",
+    "2 Balthasar 2/CsNetowrking/CsNetworkingBase.canvas",
+    "2 Balthasar 2/Index.md",
+    "3 Casper 3/PersonalWebsite/PersonalWebsiteToDo.md",
+    "3 Casper 3/PersonalWebsite",
+    "1 Melchior 1/QuickSortBase.base",
+    "2 Balthasar 2/ViewmodelReference",
+    "2 Balthasar 2/CsNetowrking",
+    "3st.md",
+    "1 Melchior 1",
+    "Untitled 1.md",
+    "2026-08-09.md",
+    "2 mello atmosphere horror short animation.md",
+    "1 percent of population has an intelectual disability.md",
+    "0 frame animation, just narrate the gun.md",
+    "maybe give currency in game that equates to 1 hour = to one weapon.md",
+    "cats but with project hcill as a mini game.md",
+    "boss fight with mirrors or side of screen.md",
+    "bonelab mod that clips stocks into your shoulder.md",
+    "bonelab loading screen.md",
+    "water can clip.md",
+    "unlock things.md",
+    "switching.md",
+    "smack with butt.md",
+    "project hcill sliding on a ball use rockets to move around.md",
+    "project chill idea names.md",
     "20240404_162022.jpg",
     "BABYGIF-1.gif",
     "NVIDIA_Share_RHieePTNLn.png",
@@ -194,35 +264,6 @@
     "PHONE IMAGES/V1/Notes_240120_122107.jpg",
     "PHONE IMAGES/V1/Notes_240118_113834.jpg",
     "PHONE IMAGES/V1/Notes_240118_103650.jpg",
-    "PHONE IMAGES/V1/Notes_240116_071838.jpg",
-    "PHONE IMAGES/V1/Notes_240115_034639.jpg",
-    "PHONE IMAGES/junkfolder",
-    "PHONE IMAGES/done",
-    "PHONE IMAGES/V1",
-    "PHONE IMAGES",
-    "WHAAAAAAAAAT.mp4",
-    "Notes.zip",
-    "switching.md",
-    "no melee.md",
-    "motivation.md",
-    "payment.md",
-    "BOOSTING.md",
-    "project chill.md",
-    "gun that shoots cartrideges after it fires a bullet.md",
-    "pump shotgun like this.md",
-    "sharpened bat, could animate it being sharpened.md",
-    "gun switching.md",
-    "air resistance.md",
-    "lefthand movement riht hand weapons.md",
-    "burst guns are only fun if all 3 bullets kill.md",
-    "import all part of the paper to model.md",
-    "game where you have those like spider arms out your back, you can make movement with it, swinging or something but you can be on the ground for purpseo.md",
-    "crowbar movement.md",
-    "design around arms.md",
-    "nodes for nods.md",
-    "in a multuplayer game a abiulity can make it so you can shoot in game cash for the players to want to go and grab which could use to trap.md",
-    "low framerate vr with hands.md",
-    "make the level select screen a gameplay aspect in itself, like into the breach, it can be a resource management game and can help making choosing levels fun..md",
-    "only 2 or 3 ammo types.md"
+    "PHONE IMAGES/V1/Notes_240116_071838.jpg"
   ]
 }

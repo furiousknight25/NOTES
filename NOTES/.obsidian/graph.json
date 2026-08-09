@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "project chill",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0659336186847992,
+  "scale": 0.15291116849439032,
   "close": false
 }

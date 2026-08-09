@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"83d8391a78d4ac39","type":"group","x":-1020,"y":-480,"width":1880,"height":1020,"label":"Magi"},
+		{"id":"704cc665877a3d9a","type":"group","x":120,"y":90,"width":680,"height":380,"label":"Melchior 1"},
+		{"id":"a98632e1e63c0057","type":"group","x":-960,"y":100,"width":680,"height":360,"label":"Caspar 3"},
+		{"id":"44d149e87f8f1696","type":"group","x":-440,"y":-400,"width":680,"height":360,"label":"Balthasar 2"},
+		{"id":"20e9537dc0ebbfde","type":"text","text":"Youngest, Treasurer, with Frankincense","x":-940,"y":130,"width":360,"height":50},
+		{"id":"ef8de5dc26058e44","type":"text","text":"Oldest, My king is light, bearer of gold","x":160,"y":115,"width":320,"height":50},
+		{"id":"d9d19d5157c501c2","type":"text","text":"Middle Age, Bel protects the king, with Myrrh","x":-420,"y":-380,"width":420,"height":60},
+		{"id":"813392e36e55f629","type":"text","text":"old","x":-1140,"y":-480,"width":90,"height":50},
+		{"id":"7793171bdcea945e","type":"text","text":"new","x":-1140,"y":440,"width":90,"height":60},
+		{"id":"4b5a2daa263e7b94","type":"file","file":"3 Casper 3/Active Projects.md","x":-940,"y":220,"width":320,"height":200},
+		{"id":"8d84f3c957eda123","type":"file","file":"3 Casper 3/Backlog.md","x":-610,"y":220,"width":310,"height":200},
+		{"id":"6933e9d0eb9768a6","type":"file","file":"1 Melchior 1/QuickSortBase.base","x":160,"y":200,"width":600,"height":240},
+		{"id":"989a921baa9af6ec","type":"file","file":"2 Balthasar 2/Index.md","x":-420,"y":-285,"width":640,"height":205}
+	],
+	"edges":[
+		{"id":"04a365ee84836b87","fromNode":"813392e36e55f629","fromSide":"bottom","toNode":"7793171bdcea945e","toSide":"top","label":"to the"},
+		{"id":"a7e595624bc264d3","fromNode":"a98632e1e63c0057","fromSide":"top","toNode":"44d149e87f8f1696","toSide":"bottom","toEnd":"none"},
+		{"id":"ba3f76d8fd890f4a","fromNode":"44d149e87f8f1696","fromSide":"bottom","toNode":"704cc665877a3d9a","toSide":"top","toEnd":"none"},
+		{"id":"d2393a469102e183","fromNode":"a98632e1e63c0057","fromSide":"right","toNode":"704cc665877a3d9a","toSide":"left","toEnd":"none"}
+	]
+}
