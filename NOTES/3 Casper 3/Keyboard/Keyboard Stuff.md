@@ -1,0 +1,1 @@
+https://oppi.li/posts/programming_on_34_keys/ Vim keybinds for ferris sweep
