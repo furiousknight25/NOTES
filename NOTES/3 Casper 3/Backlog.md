@@ -8,3 +8,4 @@
 * Document current mint setup for the future
 * create a way to scientific method and document what works and doesnt work
 * Tacos for Eva
+* Pin dreams up to the wall on sticky notes?

@@ -16,8 +16,8 @@
               "state": {
                 "file": "Director.canvas",
                 "viewState": {
-                  "x": -111.45377539104004,
-                  "y": 61.464512772030396,
+                  "x": -278.213206239102,
+                  "y": 251.07319061790207,
                   "zoom": -0.550391185879707
                 }
               },
@@ -27,27 +27,21 @@
             }
           },
           {
-            "id": "a83221312f998cd4",
+            "id": "ce6c9c7320f25ac1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "3 Casper 3/ScoutUpgrades/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "3 Casper 3/Backlog.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Backlog"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,18 +208,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff6a4e86eebaab0a",
+  "active": "ce6c9c7320f25ac1",
   "lastOpenFiles": [
+    "3 Casper 3/Active Projects.md",
+    "3 Casper 3/Backlog.md",
+    "Director.canvas",
     "3 Casper 3/ScoutUpgrades/Untitled Kanban.md",
     "3 Casper 3/ScientificMethod/ScientificMethodCanvas.canvas",
     "3 Casper 3/ScientificMethod/Life Automation.md",
     "1 Melchior 1/Genisis.png",
     "3 Casper 3/LifeAutomation",
     "3 Casper 3/ScoutUpgrades",
-    "3 Casper 3/Active Projects.md",
     "3 Casper 3/ScientificMethod",
-    "3 Casper 3/Backlog.md",
-    "Director.canvas",
     "3 Casper 3/PersonalWebsite/PersonalWebsiteCanvas.canvas",
     "3 Casper 3/ActiveProjects",
     "3 Casper 3/PersonalWebsite/PersonalWebsiteKanban.md",
