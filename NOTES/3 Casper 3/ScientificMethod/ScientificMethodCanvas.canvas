@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"e0f43c669ca657af","type":"text","text":"# What Works\n* Journalling in a physical book, not always","x":-520,"y":-320,"width":300,"height":547,"color":"4"},
 		{"id":"bbad201ac77ac0a0","type":"text","text":"# What Doesn't\n* Putting lifeup on widget screen","x":-180,"y":-320,"width":300,"height":547,"color":"1"},
-		{"id":"cf56823d83c93983","type":"text","text":"lowk lets put life automation here too","x":-394,"y":-558,"width":250,"height":60},
-		{"id":"4754840890fdfa78","x":-1100,"y":-380,"width":400,"height":400,"type":"file","file":"3 Casper 3/ScientificMethod/Life Automation.md"}
+		{"id":"4754840890fdfa78","type":"file","file":"3 Casper 3/ScientificMethod/Life Automation.md","x":-1100,"y":-320,"width":400,"height":400},
+		{"id":"cf56823d83c93983","type":"text","text":"lowk lets put life automation here too","x":-620,"y":-560,"width":250,"height":60}
 	],
 	"edges":[]
 }

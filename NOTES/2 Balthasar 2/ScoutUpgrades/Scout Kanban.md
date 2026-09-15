@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] Make Daily cube the rotating background for Scout
 - [ ] Oh my zsh
 - [ ] FZF(fuzzy searching!)
+- [ ] Flash that android system on teh samsung tab to make it run better
 
 
 ## Todo

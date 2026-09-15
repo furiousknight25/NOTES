@@ -1,9 +1,10 @@
-### Main
+
+## Life
 * .
-* Life
 * .
-* .
-* School
+## School
 * ![[CsNetworkingBase.canvas]]
+## Etc.
+- [[Keyboard Stuff]]
 
 

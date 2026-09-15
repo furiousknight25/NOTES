@@ -17,6 +17,11 @@ https://github.com/duckyb/urchin Urchin
 sigh, picotron limits keys, gaming on a regular keyboard forces you to use regular, and makes it so you dont play games on laptop
 
 get a dial slider - call it the slider?
+https://ja.aliexpress.com/item/1005010519799567.html?gatewayAdapt=glo2jpn4itemAdapt 
+japan
 
 https://github.com/ulounge/zmk-urchin french firmware to the urchin
 
+- numpad on the left side for blender 
+
+double thumb for workspace and window travel, as you would only travel work spaces or at least defintely windows using the right 
