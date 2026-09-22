@@ -25,3 +25,8 @@ https://github.com/ulounge/zmk-urchin french firmware to the urchin
 - numpad on the left side for blender 
 
 double thumb for workspace and window travel, as you would only travel work spaces or at least defintely windows using the right 
+
+- make the knob a nipple mouse and have it turn maybe,
+- or maybe just nipple on the right
+
+talk to steve holts

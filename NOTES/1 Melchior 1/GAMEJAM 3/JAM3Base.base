@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Project Chill
+    filters:
+      and:
+        - file.hasLink("project chill.md")
+    rowHeight: tall
+    cardSize: 580
+    imageAspectRatio: 0.25
+    markers: number
+    indentProperties: false
+    imageFit: contain

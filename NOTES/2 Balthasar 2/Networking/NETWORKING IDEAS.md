@@ -1,0 +1,10 @@
+- NAT
+	- Network Address Translation
+- 131.212.104.10
+	- beggining public? second half private?
+- Grasp Layers
+	- Application 
+	- Transport
+	- Network
+	- DataLink
+- 

@@ -1,0 +1,1 @@
+bring in nutshells or hovering tools to everything, make it satisfying
