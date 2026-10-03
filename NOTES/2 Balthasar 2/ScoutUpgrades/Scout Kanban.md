@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Oh my zsh
 - [ ] FZF(fuzzy searching!)
 - [ ] Flash that android system on teh samsung tab to make it run better
+- [ ] apps on the left, you ussualy have few apps and longer space helps with long text and blender. i mtalking about the taskbar
 
 
 ## Todo
