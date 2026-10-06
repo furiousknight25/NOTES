@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e36edcf3633c2231","type":"text","text":"Frame Buffer\n\nWhat do we need?\n\nSize, x and y\na way to set pixel?\n\nthats all?\n\n\nholds onto pixels, but in a privatesetting","x":-1040,"y":-629,"width":471,"height":429},
+		{"id":"091ce7edc4f20191","type":"text","text":"Ray.h\n\n","x":-440,"y":-629,"width":500,"height":409}
+	],
+	"edges":[]
+}
