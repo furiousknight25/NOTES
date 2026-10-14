@@ -30,3 +30,8 @@ double thumb for workspace and window travel, as you would only travel work spac
 - or maybe just nipple on the right
 
 talk to steve holts
+
+- buy raspberry pi repair stuff with the board
+-  
+https://www.amazon.com/Logitech-Foldable-Wireless-Mouse-Graphite/dp/B0GSXLK8SC?crid=KX19VLL4VCAN&dib=eyJ2IjoiMSJ9.G5USy1GxqLRqFekjOlvi_HOIECwTvVsi5juaKjB_AdZhWPYuXUkDJhUlQQBBXKNpV2okfNamIHgBZFeqNyLYs92V7P8Y6Smh3aXYQBO2z2HRlKPYRCs_ckhJEys_9Ay3nuohHCXbdqjI-l5B5oVubWJGQm3AXjpUzte2itmSJ77X9ujERPQ_33LRarKEViH8c1AxHvBXPnrixA0pdZlFOc4Awto5LGmFGppK4Rb82v8.eCxIAMBie4qgdWTDX86b1kU5OoqZjiYcIUNmcW8Bgi4&dib_tag=se&keywords=Logitech%2BMobi%2BFold&qid=1791401371&sprefix=logitech%2Bmobi%2Bfold%2Caps%2C308&sr=8-3&th=1
+
