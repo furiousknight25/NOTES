@@ -1,0 +1,1 @@
+theres all those fancy typing games that are so trendy but what about making your own typing game jam that teaches vim in a fun way with cool effects :DDD YEAHHHHH

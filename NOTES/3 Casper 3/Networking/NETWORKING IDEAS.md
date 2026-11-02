@@ -7,4 +7,4 @@
 	- Transport
 	- Network
 	- DataLink
-- 
+- remember routers do not talk over thin air, they simple plug into the isp

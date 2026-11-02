@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## BackLog
 
+- [ ] md for blogs while html for regular site, maybe screw kotlin?
+- [ ] create a library and widgets for your site using kobeweb
 
 
 ## Todo

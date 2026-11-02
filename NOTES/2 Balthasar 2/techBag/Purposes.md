@@ -1,0 +1,2 @@
+- decide what you want this, we use AWS for lots of things connecting to wifi, but the PI homelab should have its own reasons, some of which can include walkie talkie gameplay??
+- 

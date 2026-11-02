@@ -27,6 +27,13 @@ kanban-plugin: board
 - [ ] setup sunny to be a render farm with easy send off to render buttons so you can work while it renders fast
 - [ ] linux command quick pad attached to laptop
 - [ ] find a solid way to show case all keybinds to remember, keybind master doc???
+- [ ] create godot asset library with code bases and shaders
+- [ ] also calculate how long it will take ot beat all games in steam library
+- [ ] create a place for not random notes but random questions and things I want to google for end of day instant creation
+- [ ] Find a lightweight way to view all emails instead of a browser open for all the gmails on linux
+	
+	also maybe set a lock for workspace 4
+- [ ] use foot I think?
 
 
 ## Todo
