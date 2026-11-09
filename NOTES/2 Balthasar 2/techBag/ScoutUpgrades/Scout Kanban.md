@@ -34,6 +34,7 @@ kanban-plugin: board
 	
 	also maybe set a lock for workspace 4
 - [ ] use foot I think?
+- [ ] ai email filter
 
 
 ## Todo

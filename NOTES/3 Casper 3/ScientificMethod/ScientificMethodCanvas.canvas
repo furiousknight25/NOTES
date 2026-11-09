@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"e0f43c669ca657af","type":"text","text":"# What Works\n* Journalling in a physical book, not always\n* using things 2 to label things [p] uh lol not here maybe\n* using work mode for opening life360 to mute texts\n* keeping tablet on airplane mode\n* ","x":-520,"y":-320,"width":300,"height":547,"color":"4"},
+		{"id":"e0f43c669ca657af","type":"text","text":"# What Works\n* Journalling in a physical book, not always\n* using things 2 to label things [p] uh lol not here maybe\n* using work mode for opening life360 to mute texts\n* keeping tablet on airplane mode\n* get a leather wallet in another country like Morroco, its cheap no shipping and it will actually last forever \n* buy frozen food more, its more sustainable(and healthier?), 6x more fresh food is wasted","x":-520,"y":-320,"width":300,"height":547,"color":"4"},
 		{"id":"bbad201ac77ac0a0","type":"text","text":"# What Doesn't\n* Putting lifeup on widget screen","x":-180,"y":-320,"width":300,"height":547,"color":"1"},
-		{"id":"4754840890fdfa78","type":"file","file":"3 Casper 3/ScientificMethod/Life Automation.md","x":-1100,"y":-320,"width":400,"height":400},
-		{"id":"cf56823d83c93983","type":"text","text":"lowk lets put life automation here too","x":-620,"y":-560,"width":250,"height":60}
+		{"id":"cf56823d83c93983","type":"text","text":"lowk lets put life automation here too","x":-620,"y":-560,"width":250,"height":60},
+		{"id":"73a7b1ffcff7ce8f","type":"text","text":"Theory\n\nstart folders with a canvas, blurt out all ideas onto the canvas, then later format it into better ","x":-1049,"y":579,"width":449,"height":221},
+		{"id":"4754840890fdfa78","type":"file","file":"3 Casper 3/ScientificMethod/Life Automation.md","x":-1000,"y":-246,"width":400,"height":400},
+		{"id":"39b1158c4ff2e380","type":"text","text":"Questions\n- does taking notes actually work when watching videos?","x":-1500,"y":-246,"width":280,"height":346},
+		{"id":"67920125892f5ff9","x":-520,"y":-1400,"width":320,"height":300,"type":"text","text":"## UNDERSTAND GOD\n\n## UNDERSTAND LIFE\n\n## Branchout and understand everything\n\n## Understand God\n"}
 	],
 	"edges":[]
 }

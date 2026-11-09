@@ -5,3 +5,7 @@ Lenovo thinkplus 240W Qlex (CBQX240A)
 	- prob juts find a single extend pully
 
 https://www.bestbuy.com/product/ac-infinity-multifan-s2-quiet-usb-centrifugal-cooling-fan-120mm-black/J3QJCLJGXZ/sku/13159148?ref=212&loc=marketplace
+
+- PINECIL Smart Mini Portable Soldering Iron
+
+https://www.printables.com/model/744047-slim-case-for-raspberry-pi-5-with-active-cooler/remixes 
