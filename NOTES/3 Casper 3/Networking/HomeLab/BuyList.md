@@ -1,0 +1,3 @@
+- I have the gpu
+- one of Dadas computers?
+- https://www.alibaba.com/product-detail/e-ink-epd-2-66-Inch_1600570129273.html?mark=google_shopping&pcy=us_en buy a bunch of these with mini computers connected to them all for nodes spread around the house., take rechargable double a batteries and have them all plugged in

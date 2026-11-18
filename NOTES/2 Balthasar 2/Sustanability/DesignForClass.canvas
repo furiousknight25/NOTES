@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"8b340c6037bdf2a4","type":"group","x":-1280,"y":-1080,"width":920,"height":800,"label":"Enviornmental Systems"},
+		{"id":"8e1b02b39f102a9f","type":"group","x":-360,"y":-1760,"width":1160,"height":560,"label":"Economic Systems"},
+		{"id":"8d1d023f3d1c4eca","type":"group","x":800,"y":-1120,"width":720,"height":800,"label":"Social Systems"},
+		{"id":"dc739e1c3230de16","type":"file","file":"Pasted image 20261109155826.png","x":-253,"y":-1030,"width":953,"height":640},
+		{"id":"f546589c74d0186d","type":"text","text":"Get Anki Cards for this","x":-1000,"y":1320,"width":250,"height":60},
+		{"id":"869d302e0ed7cb5b","type":"text","text":"","x":371,"y":429,"width":250,"height":60},
+		{"id":"f81edf28d1fcf85e","x":-700,"y":-660,"width":250,"height":60,"type":"text","text":"Salt-1 Farming System"},
+		{"id":"d3beb3e44fee24d3","x":900,"y":-820,"width":250,"height":80,"type":"text","text":"Independent Local Farmers"},
+		{"id":"00ae1974667d5fbc","x":900,"y":-640,"width":250,"height":60,"type":"text","text":"Community Training"},
+		{"id":"2deefb00e73466e7","x":900,"y":-980,"width":250,"height":60,"type":"text","text":"Eating Local and buying easy to grow crops"},
+		{"id":"37c877f84d10e4f1","x":1208,"y":-818,"width":250,"height":60,"type":"text","text":"Local Members"},
+		{"id":"c95587cb925233ba","x":-1040,"y":-950,"width":250,"height":60,"type":"text","text":"ToilSoil Retention"},
+		{"id":"772cb2b538054e6e","x":-1040,"y":-661,"width":250,"height":60,"type":"text","text":"Nutrient Cycling"},
+		{"id":"3db83e40f005320a","x":-1040,"y":-501,"width":250,"height":60,"type":"text","text":"Hydrological Buffering"},
+		{"id":"a4caa64f5d597698","x":371,"y":-1388,"width":250,"height":60,"type":"text","text":"Long Term Asset Security"},
+		{"id":"127ee73c210ff837","type":"text","text":"Staggered cash Flow","x":-232,"y":-1399,"width":403,"height":81},
+		{"id":"1ebd2d2dd25c2b23","x":-264,"y":-1560,"width":467,"height":81,"type":"text","text":"Buying different crops for different parts of the year"},
+		{"id":"a2d53de39cd3d047","x":320,"y":-1640,"width":250,"height":60,"type":"text","text":"No buying of pesticides"}
+	],
+	"edges":[
+		{"id":"6e1560a17a41cb9c","fromNode":"8b340c6037bdf2a4","fromSide":"right","toNode":"dc739e1c3230de16","toSide":"left"},
+		{"id":"2d3ca59277a9a999","fromNode":"8e1b02b39f102a9f","fromSide":"bottom","toNode":"dc739e1c3230de16","toSide":"top","fromEnd":"arrow"},
+		{"id":"189502d1237f5cbb","fromNode":"8d1d023f3d1c4eca","fromSide":"left","toNode":"dc739e1c3230de16","toSide":"right"},
+		{"id":"e014d513a69e114a","fromNode":"1ebd2d2dd25c2b23","fromSide":"bottom","toNode":"127ee73c210ff837","toSide":"top"},
+		{"id":"ab8cfa3533b472f3","fromNode":"a4caa64f5d597698","fromSide":"top","toNode":"1ebd2d2dd25c2b23","toSide":"right"},
+		{"id":"056453578f4e3b63","fromNode":"d3beb3e44fee24d3","fromSide":"bottom","toNode":"00ae1974667d5fbc","toSide":"top"},
+		{"id":"ee2103f3c015067d","fromNode":"00ae1974667d5fbc","fromSide":"top","toNode":"d3beb3e44fee24d3","toSide":"bottom"},
+		{"id":"7fe9eecdb7076685","fromNode":"772cb2b538054e6e","fromSide":"top","toNode":"c95587cb925233ba","toSide":"bottom"},
+		{"id":"87c644460bfe7110","fromNode":"f81edf28d1fcf85e","fromSide":"left","toNode":"772cb2b538054e6e","toSide":"right"},
+		{"id":"8028d05f66161c6e","fromNode":"c95587cb925233ba","fromSide":"top","toNode":"a4caa64f5d597698","toSide":"left"},
+		{"id":"46427a76492e9637","fromNode":"3db83e40f005320a","fromSide":"left","toNode":"c95587cb925233ba","toSide":"left"},
+		{"id":"0749b3980c45153d","fromNode":"2deefb00e73466e7","fromSide":"bottom","toNode":"d3beb3e44fee24d3","toSide":"top"},
+		{"id":"6a9b966fddf01700","fromNode":"2deefb00e73466e7","fromSide":"bottom","toNode":"37c877f84d10e4f1","toSide":"top"},
+		{"id":"da03cc201889d744","fromNode":"2deefb00e73466e7","fromSide":"top","toNode":"1ebd2d2dd25c2b23","toSide":"right"},
+		{"id":"4a2dd8f0308ad37a","fromNode":"2deefb00e73466e7","fromSide":"top","toNode":"127ee73c210ff837","toSide":"right"},
+		{"id":"f92321640969e5a0","fromNode":"a4caa64f5d597698","fromSide":"right","toNode":"d3beb3e44fee24d3","toSide":"left"},
+		{"id":"9b379355fd46d763","fromNode":"a2d53de39cd3d047","fromSide":"bottom","toNode":"a4caa64f5d597698","toSide":"top"},
+		{"id":"1d517b2d0c8626ed","fromNode":"a2d53de39cd3d047","fromSide":"left","toNode":"772cb2b538054e6e","toSide":"top"}
+	]
+}

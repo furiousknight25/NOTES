@@ -35,6 +35,8 @@ kanban-plugin: board
 	also maybe set a lock for workspace 4
 - [ ] use foot I think?
 - [ ] ai email filter
+- [ ] obsidian folder holds art stuff? like art folder and then animation in it?
+- [ ] https://nix.dev/tutorials/nix-language.html
 
 
 ## Todo

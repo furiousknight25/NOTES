@@ -10,4 +10,4 @@
 * Tacos for Eva
 * Pin dreams up to the wall on sticky notes?
 * apply the automata mindset more often
-* 
+* how  can we statistically tell if we are improving, learning or being distracted?? can we filter this into a llm?

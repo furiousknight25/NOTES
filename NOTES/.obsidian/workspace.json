@@ -10,18 +10,16 @@
           {
             "id": "ff6a4e86eebaab0a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Director.canvas",
                 "viewState": {
-                  "x": -156.66113917479797,
-                  "y": 91.44457242502091,
+                  "x": -186.6257242175811,
+                  "y": 28.609140502114677,
                   "zoom": -0.550391185879707
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Director"
             }
@@ -47,18 +45,150 @@
             "id": "cb076879a8d2eb80",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2 Balthasar 2/Sustanability/DesignForClass.canvas",
+                "viewState": {
+                  "x": 144.6281492386953,
+                  "y": -1049.6718892001531,
+                  "zoom": -0.6307248821097321
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DesignForClass"
+            }
+          },
+          {
+            "id": "eb896c43ba97d929",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2 Balthasar 2/Art/Reference.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reference"
+            }
+          },
+          {
+            "id": "c5f37a5f12694c36",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Balthasar 2/techBag/Keyboard/Keyboard Stuff.md",
+                "file": "file:/home/collector25061/Documents/GitHub/starterCode/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keyboard Stuff"
+              "title": "README"
+            }
+          },
+          {
+            "id": "809d48c7249716c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Casper 3/Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backlog"
+            }
+          },
+          {
+            "id": "7a65d9f6f38b3c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "understanding is the structure over the facts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "understanding is the structure over the facts"
+            }
+          },
+          {
+            "id": "ec2ff5b669150a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "make a protein smoothie afterworkout with cam and eat dinner then.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "make a protein smoothie afterworkout with cam and eat dinner then"
+            }
+          },
+          {
+            "id": "b7630e4b9c249029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "understanding creates fewer things to learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "understanding creates fewer things to learn"
+            }
+          },
+          {
+            "id": "6a08441ac32e9a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things needed to learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "things needed to learn"
+            }
+          },
+          {
+            "id": "dbd173bcaf959f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start using a stopwatch to track how long things take like dishes, laundry, etc then put this on the life graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "start using a stopwatch to track how long things take like dishes, laundry, etc then put this on the life graph"
+            }
+          },
+          {
+            "id": "03c524ef26fb64cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "try a 8 hour rollar blade grind fest with travis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "try a 8 hour rollar blade grind fest with travis"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -117,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "2cbaa6c9c5104407",
@@ -223,44 +353,56 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cb076879a8d2eb80",
+  "active": "03c524ef26fb64cc",
   "lastOpenFiles": [
-    "2 Balthasar 2/techBag/Keyboard/Pros and Cons.md",
-    "2 Balthasar 2/techBag/Keyboard/Keyboard Stuff.md",
+    "start using a stopwatch to track how long things take like dishes, laundry, etc then put this on the life graph.md",
+    "try a 8 hour rollar blade grind fest with travis.md",
+    "things needed to learn.md",
+    "use nutshell with obsidian md.md",
+    "understanding creates fewer things to learn.md",
+    "Pasted image 20261118151719.png",
+    "make a protein smoothie afterworkout with cam and eat dinner then.md",
+    "understanding is the structure over the facts.md",
+    "3 Casper 3/Backlog.md",
+    "3 Casper 3/Active Projects.md",
+    "run to go intoa titan looks like this.md",
+    "file:/home/collector25061/Documents/GitHub/starterCode/README.md",
+    "2 Balthasar 2/techBag/BuyList.md",
+    "for advice for college students create a list of best youtube videos and websites to learn from.md",
+    "3 Casper 3/Networking/HomeLab/BuyList.md",
+    "2 Balthasar 2/Biking/Buy List.md",
+    "3 Casper 3/Graphics/Drawing 2026-11-13 17.41.47.excalidraw.md",
+    "find a system that algorithmically creates flashcards that will give you the most recall per rememberence. Especially for Anki.md",
+    "a button that connects to homelab and website hosted thing that random people can press which makes it so that you see it saying hi in real life yayyy.md",
+    "learn math stuff not again.md",
+    "file:/home/collector25061/.gemini/antigravity-cli/brain/0a4e3d1a-c283-4006-8333-417ef6c86fdb/coop_architecture_plan.md",
+    "for teaching blender.md",
+    "not much learning on nixos you can make good teaching content for that.md",
+    "Pasted image 20261113181030.png",
+    "Pasted image 20261113181014.png",
+    "woah geometry shaders are just the vertex shaders that the graphics pipeline had this WHOLE TIME.md",
+    "people are like ooooh physical media is so important because the internet might not exist, and im sure they are other arguements but then you dont need to save thousands of cds, just save them in a bunch of hardrives???.md",
+    "2 Balthasar 2/techBag/Treat/To keep it on.md",
+    "The Struggle.md",
+    "2 Balthasar 2/PersonalWebsite/PersonalWebsiteCanvas.canvas",
+    "3 Casper 3/Networking/HomeLab",
+    "2 Balthasar 2/Art/Reference.canvas",
+    "2 Balthasar 2/Art/Animation/Reference",
+    "2 Balthasar 2/Art",
+    "Director.canvas",
     "3 Casper 3/ScientificMethod/ScientificMethodCanvas.canvas",
-    "3 Casper 3/ScientificMethod/Truth which is God.canvas",
-    "cool weapon or ability?.md",
-    "Pasted image 20261109150052.png",
+    "2 Balthasar 2/Sustanability/DesignForClass.canvas",
     "2 Balthasar 2/Sustanability/Philipines.canvas",
-    "3 Casper 3/ScientificMethod/Life Automation.md",
-    "Get your life into a universe record physically bury it around the world, put the timeline of your life, website nix configurations to leave that lasting impact on the world..md",
-    "Untitled 5.md",
-    "3 Casper 3/ScientificMethod/Untitled.md",
+    "Pasted image 20261109155826.png",
+    "Pasted image 20261109155654.png",
+    "3 Casper 3/ScientificMethod/Truth which is God.canvas",
+    "Pasted image 20261109150052.png",
     "3 Casper 3/Graphics/Project.canvas",
     "2 Balthasar 2/Sustanability",
-    "2 Balthasar 2/techBag/BuyList.md",
-    "2 Balthasar 2/techBag/ScoutUpgrades/Scout Kanban.md",
-    "\"From Grothendiek, I have also learned not to take glory in the difficulty of a proof, difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious\".md",
-    "mocap creature in project chill.md",
-    "2 Balthasar 2/techBag/Treat/bluetooth as wireless?.md",
-    "2 Balthasar 2/techBag/Treat/To keep it on.md",
-    "2 Balthasar 2/techBag/Purposes.md",
-    "2 Balthasar 2/Index.md",
-    "file:/home/collector25061/.gemini/antigravity-cli/brain/68772487-5354-489c-9093-5b7d86505987/json-loader-plan.md",
-    "file:/home/collector25061/Downloads/i-would-like-to-learn-barycentric-coordinates-i-am-focusing-on-the.md",
-    "virtual shelf, deticated ipad that shines a light onto the wall that shows avaliable books to read.md",
-    "Director.canvas",
-    "you own this.md",
-    "Find a lightweight way to view all emails instead of a browser open for all the gmails on linux.md",
-    "Untitled 4.md",
-    "3 Casper 3/Networking/NETWORKING IDEAS.md",
-    "zesty drink.md",
-    "you stupid dreamer.md",
-    "3 Casper 3/Networking/socks5.md",
-    "2 Balthasar 2/PersonalWebsite/PersonalWebsiteCanvas.canvas",
     "1 Melchior 1/Genisis.png",
     "2 Balthasar 2/techBag",
     "2 Balthasar 2/Networking/CsNetworkingBase.canvas",
@@ -271,15 +413,7 @@
     "Pasted image 20260905144624.png",
     "1 Melchior 1/GAMEJAM 3",
     "3 Casper 3/Networking",
-    "2 Balthasar 2/Biking",
-    "2 Balthasar 2/techBag/Keyboard",
-    "3 Casper 3/LifeAutomation",
     "20240404_162022.jpg",
-    "BABYGIF-1.gif",
-    "NVIDIA_Share_RHieePTNLn.png",
-    "NVIDIA_Share_vTZXsmeB98.png",
-    "PHONE IMAGES/V1/Special weapon, bounce pistol_220128_170845.jpg",
-    "PHONE IMAGES/V1/Notes_240120_122107.jpg",
-    "PHONE IMAGES/V1/Notes_240118_113834.jpg"
+    "BABYGIF-1.gif"
   ]
 }
